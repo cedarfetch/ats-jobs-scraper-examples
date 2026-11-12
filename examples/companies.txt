@@ -1,0 +1,5 @@
+# One board per line: ats:token, or a board URL. Lines starting with # are ignored.
+greenhouse:stripe
+lever:palantir
+ashby:ramp
+https://jobs.ashbyhq.com/notion

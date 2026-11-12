@@ -1,0 +1,9 @@
+{
+    "companies": [
+        "greenhouse:stripe",
+        "lever:palantir",
+        "ashby:ramp"
+    ],
+    "maxJobsPerCompany": 5,
+    "includeDescription": false
+}
