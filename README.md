@@ -168,6 +168,10 @@ Apify's free plan includes monthly platform credit that you can use to try the A
 - The sync endpoint used by `run.sh` answers 408 after 300 seconds. For long runs use the Python or Node examples, which wait for the run to finish.
 - You are responsible for how you use the data and for each source's terms.
 
+## Guide
+
+Step-by-step write-up of the three job-board endpoints, their limits and a do-it-yourself version: [How to get a company's open jobs straight from Greenhouse, Lever or Ashby](https://dev.to/cedarfetch/how-to-get-a-companys-open-jobs-straight-from-greenhouse-lever-or-ashby-2men).
+
 ## Do it yourself (no paid tool)
 
 These vendors publish job-board APIs for exactly this use, and none needs a key. The Actor reads them directly:
